@@ -1,2 +1,2 @@
 dependencies=
-output-jar=isarray.jar
+output-jar=bin/isarray-${branch}.jar
