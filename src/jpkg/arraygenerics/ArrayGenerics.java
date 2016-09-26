@@ -1,6 +1,6 @@
-package jpkg.isarray;
+package jpkg.arraygenerics;
 
-public final class IsArray {
+public final class ArrayGenerics {
 	public static final boolean isArray(final Object obj) {
 	    return obj instanceof Object[] || obj instanceof boolean[] ||
 	       obj instanceof byte[] || obj instanceof short[] ||

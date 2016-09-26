@@ -1,19 +1,19 @@
-package jpkg.isarray;
+package jpkg.arraygenerics;
 
 import static org.junit.Assert.*;
-import static jpkg.isarray.IsArray.isArray;
+import static jpkg.arraygenerics.ArrayGenerics.isArray;
 import jpkg.test.TestManager;
 
 import org.junit.Test;
 
-public class IsArrayTest {
+public class ArrayGenericsTest {
 	public static void main(String[] args) {
 		test();
 		TestManager.runTests();
 	}
 	
 	public static void test() {
-		TestManager.addTest(IsArrayTest.class);
+		TestManager.addTest(ArrayGenericsTest.class);
 	}
 	
 	@Test
