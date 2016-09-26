@@ -6,14 +6,14 @@ import jpkg.test.TestManager;
 
 import org.junit.Test;
 
-public class TestIsArray {
+public class IsArrayTest {
 	public static void main(String[] args) {
 		test();
 		TestManager.runTests();
 	}
 	
 	public static void test() {
-		TestManager.addTest(TestIsArray.class);
+		TestManager.addTest(IsArrayTest.class);
 	}
 	
 	@Test
