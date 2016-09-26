@@ -8,11 +8,11 @@ import org.junit.Test;
 
 public class TestIsArray {
 	public static void main(String[] args) {
-		addTests();
+		test();
 		TestManager.runTests();
 	}
 	
-	public static void addTests() {
+	public static void test() {
 		TestManager.addTest(TestIsArray.class);
 	}
 	
