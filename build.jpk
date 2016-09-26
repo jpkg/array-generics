@@ -1,2 +1,2 @@
 dependencies=test-manager
-output-jar=bin/isarray-${branch}.jar
+output-jar=bin/arraygenerics-${branch}.jar
