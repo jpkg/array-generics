@@ -1,2 +1,2 @@
-dependencies=
+dependencies=test-manager
 output-jar=bin/isarray-${branch}.jar
